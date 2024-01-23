@@ -9,7 +9,7 @@
 body{
     background: url(images/image.jpg);
     background-size: cover;
-     background-color:rgb(235, 190, 228);
+     background-color:black;
 }
 .container{
     display: flex;
